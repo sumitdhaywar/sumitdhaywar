@@ -72,3 +72,25 @@ A student safety and complaint management project focused on reporting, manageme
 ---
 
 *Always learning. Always building. Always improving.*
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js" />
+</p>
+
+### Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Data Science & AI/ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+</p>
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
