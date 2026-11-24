@@ -16,6 +16,13 @@ I enjoy solving problems through programming, data analysis, machine learning, a
 - 🌱 Continuously improving my technical and problem-solving skills
 
 ---
+## 🌱 Currently Learning
+
+- Machine Learning algorithms and model evaluation
+- Data preprocessing and feature engineering
+- SQL and database management
+- Data analysis using Python
+- Building end-to-end Data Science projects
 
 ## 🛠️ Tech Stack
 
