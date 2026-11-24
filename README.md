@@ -14,28 +14,27 @@ I enjoy solving problems through programming, data analysis, machine learning, a
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Programming & Database**
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js" />
+</p>
 
-- Python
-- SQL
-- MySQL
+### Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-**AI & Data Science**
+### Data Science & AI/ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
+</p>
 
-- Machine Learning
-- Data Analysis
-- Pandas
-- NumPy
-
-**Tools & Technologies**
-
-- Git & GitHub
-- VS Code
-- Linux
-
----
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
 ## 🚀 Featured Projects
 
