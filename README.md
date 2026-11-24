@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="profile%20banner.png" width="100%" alt="Sumit Dhaywar - AI/ML Developer Banner">
+</p>
 # Hi, I'm Sumit Dhaywar 👋
 
 ### AI/ML Developer | Python | Data Science
