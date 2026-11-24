@@ -1,106 +1,110 @@
+ <!-- Profile README -->
 <p align="center">
-  <img src="profile%20banner.png" width="100%" alt="Sumit Dhaywar - AI/ML Developer Banner">
+  <img src="profile%20banner.png" width="100%" alt="Sumit Dhaywar profile banner">
 </p>
-# Hi, I'm Sumit Dhaywar 👋
 
-### AI/ML Developer | Python | Data Science
+<h1 align="center">Hi, I'm Sumit Dhaywar 👋</h1>
 
-I'm an Artificial Intelligence and Machine Learning diploma student passionate about building practical, real-world technology solutions.
+<h3 align="center">AI/ML & Data Science Developer</h3>
 
-I enjoy solving problems through programming, data analysis, machine learning, and software development.
-
-- 🎓 Studying Artificial Intelligence & Machine Learning
-- 💻 Working with Python, SQL and Machine Learning
-- 📊 Exploring Data Science and data analytics
-- 🚀 Building practical, industry-oriented projects
-- 🌱 Continuously improving my technical and problem-solving skills
+<p align="center">
+  Artificial Intelligence & Machine Learning Diploma Student
+</p>
 
 ---
-## 🌱 Currently Learning
 
-- Machine Learning algorithms and model evaluation
-- Data preprocessing and feature engineering
-- SQL and database management
-- Data analysis using Python
-- Building end-to-end Data Science projects
+## 👨‍💻 About Me
 
-## 🛠️ Tech Stack
+I'm an Artificial Intelligence and Machine Learning diploma student interested in building practical, data-driven software solutions.
+
+- 🎓 Studying Artificial Intelligence & Machine Learning
+- 💻 Working with Python, SQL and JavaScript
+- 🤖 Exploring Machine Learning and Data Science
+- 📊 Interested in data analysis and intelligent applications
+- 🚀 Focused on developing practical, industry-oriented projects
+- 🌱 Continuously learning and improving my technical skills
+
+## ⚙️ Tech Stack
 
 ### Programming Languages
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=python,js" />
 </p>
 
+### Data Science & Machine Learning
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
 ### Database
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Data Science & AI/ML
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
-</p>
-
-### Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ## 🚀 Featured Projects
 
 ### 1. Networked Student Management System
 
-A Python and MySQL-based student management application designed around client-server architecture.
+A Python and MySQL-based student management application featuring client-server architecture and academic record management.
 
-**Technologies:** Python, MySQL
+**Key Areas:**
+- Student record management
+- Marks and result processing
+- Database integration
+- Client-server communication
 
 [View Repository](https://github.com/sumitdhaywar/Networked-Student-Management-System)
 
-### 2. Project Safety Hub
+### 2. ProjectSafetyHub
 
-A student safety and complaint management project focused on reporting, management and analytics.
-
-**Technologies:** JavaScript
+A JavaScript-based project focused on software safety and technology.
 
 [View Repository](https://github.com/sumitdhaywar/ProjectSafetyHub)
 
----
+## 🌱 Currently Learning
 
-## 🎯 Current Focus
+- Machine Learning algorithms
+- Data preprocessing and feature engineering
+- Exploratory Data Analysis
+- Model evaluation
+- SQL and database management
+- End-to-end Data Science workflows
 
-- Strengthening Machine Learning fundamentals
-- Learning Data Science through practical implementation
-- Building complete, well-documented projects
-- Improving problem-solving and software development skills
+## 📊 GitHub Statistics
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sumitdhaywar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitdhaywar&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitdhaywar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🎯 My Goal
+
+To become a skilled AI/ML and Data Science professional by strengthening my fundamentals, building complete real-world projects, and continuously improving through practical experience.
 
 ## 🤝 Connect With Me
 
-- GitHub: [@sumitdhaywar](https://github.com/sumitdhaywar)
+<p>
+  <a href="https://github.com/sumitdhaywar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-*Always learning. Always building. Always improving.*
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js" />
+<p align="center">
+  <b>Build • Learn • Innovate</b>
 </p>
 
-### Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Data Science & AI/ML
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn" />
-</p>
-
-### Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="center">
+  Thanks for visiting my profile!
 </p>
